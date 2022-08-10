@@ -1,0 +1,9 @@
+/data
+/results
+/private
+/pretrained_models
+*.idea
+*.ipynb_checkpoints
+*.ipynb
+*.sh
+*backup*
